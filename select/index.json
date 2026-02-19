@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Give Me!",
+  "base_artist": "ICEx",
+  "createdAt": "2026-02-19T07:40:13.825070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give Me Back My Hometown",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/01_Give_Me_Back_My_Hometown_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give Me One More Chance",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/02_Give_Me_One_More_Chance_Exile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give Me One More Chance",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/03_Give_Me_One_More_Chance_Exile.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give Me One More Chance (Album Version)",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/04_Give_Me_One_More_Chance_(Album_Version)_Exile.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give Me Wings",
+      "artist": "Michael Johnson",
+      "has_synced": true,
+      "path": "select/05_Give_Me_Wings_Michael_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give Me A Reason",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/06_Give_Me_A_Reason_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me A Reason",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/07_Give_Me_A_Reason_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give Me Life",
+      "artist": "Daniel Powter",
+      "has_synced": true,
+      "path": "select/08_Give_Me_Life_Daniel_Powter.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give Me Novacaine",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/09_Give_Me_Novacaine_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give Me Novoaine",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/10_Give_Me_Novoaine_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give Me Some Love",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/11_Give_Me_Some_Love_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give Me (feat. Noreaga)",
+      "artist": "A Tribe Called Quest feat. Noreaga",
+      "has_synced": true,
+      "path": "select/12_Give_Me_(feat._Noreaga)_A_Tribe_Called_Quest_feat._Noreaga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give Me (Feat. Noreaga)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/13_Give_Me_(Feat._Noreaga)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give Me Love",
+      "artist": "LL Cool J feat. Seal",
+      "has_synced": true,
+      "path": "select/14_Give_Me_Love_LL_Cool_J_feat._Seal.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Give Me Love",
+      "artist": "LL Cool J/Seal",
+      "has_synced": true,
+      "path": "select/15_Give_Me_Love_LL_Cool_J_Seal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Give Me Back My Man",
+      "artist": "Carla dal Forno",
+      "has_synced": false,
+      "path": "select/16_Give_Me_Back_My_Man_Carla_dal_Forno.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Give Me the Reason",
+      "artist": "Luther Vandross",
+      "has_synced": true,
+      "path": "select/17_Give_Me_the_Reason_Luther_Vandross.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give Me!",
+      "artist": "ICEx",
+      "has_synced": false,
+      "path": "select/pl_01_Give_Me!_ICEx.txt"
+    }
+  ]
+}
